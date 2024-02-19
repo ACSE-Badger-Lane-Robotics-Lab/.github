@@ -1,12 +1,11 @@
-## Hi there 👋
+# Autonomous Manipulation & Control Lab (AutoMCL)
 
-<!--
+## Introduction
 
-**Here are some ideas to get you started:**
+Welcome to the Autonomous Manipulation & Control Lab, known as AutoMCL! We are a robotics-focused lab working on control algorithms to enable robust autonomy in applications ranging from manufacturing, aerospace, agriculture and construction. Our members come from a wide variety of academic backgrounds and are affiliated with Sheffield Robotics.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+As a lab, we focus on enabling a grass-roots approach by granting opportunities to undergraduate students to take part in novel research. Our lab focuses on mostly manipulator-based planning and control, but we have projects including mobile robots and CNC-style machines. 
+
+## Contact
+
+If you want to collaborate, please reach out!
